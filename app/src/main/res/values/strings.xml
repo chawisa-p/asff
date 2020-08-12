@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myTranslator</string>
+    <string name="name">my</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="title_history">History</string>
+    <string name="photo">Photo</string>
+    <string name="camera">Camera</string>
+</resources>
